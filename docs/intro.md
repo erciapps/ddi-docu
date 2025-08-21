@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Desarrollo de interfaces
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
